@@ -1,1 +1,1 @@
-web: gunicorn naefolio.wsgi 
+web: gunicorn ecom.wsgi 
